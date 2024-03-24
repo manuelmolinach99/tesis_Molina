@@ -1,0 +1,5 @@
+prueba_visualizar_datos/datos/S1_E1_A1.mat
+*.joblib
+*.mat
+*.pickle
+*.pyc
